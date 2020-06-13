@@ -30,7 +30,7 @@ const Home = () => {
                 <Image source={require('../../assets/logo.png')}/>
                 <View>
                 <Text style={styles.title}>Seu marketplace de coleta de resíduos</Text>
-                <Text style={styles.description}>Ajudamos pessoas a encontrarem pontos de coeta de forma eficiênte</Text>
+                <Text style={styles.description}>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiênte</Text>
                 </View>
             </View>
             
